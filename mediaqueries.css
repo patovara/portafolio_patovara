@@ -1,6 +1,6 @@
  @media screen and (max-width: 1200px){
     #profile{
-        height: 83vh;
+        height: 115vh;
         margin-bottom: 6rem;
     }
     /*Ojo con está propiedad por qué me estaba dando un error con una resolución de pantalla pequeña*/
